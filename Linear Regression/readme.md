@@ -1,6 +1,6 @@
 <h1> Linear Regression Model implementation </h1>
 <br>
-<h5> How this model works </h5>
+<h3> How this model works </h3>
 <ul>
   <li>First import all the required modules, refer documentation for the list of modules</li>
   <li>Now, create a dataframe by either reading from a csv file or manually creating one using data structures</li>
